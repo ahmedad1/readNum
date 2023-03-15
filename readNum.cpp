@@ -42,7 +42,7 @@ string rank[6]={
 /*1*/""
 
 };
-//100000000 
+/*100000000 */
 for(int i=0;i<len;i++){
  int g=l-i;
 if(x.length()>1&&x[i]=='0')
