@@ -1,5 +1,4 @@
 #include<iostream>
-#include<math.h>
 using namespace std;
 string table(char s){
 int n=int(s);
